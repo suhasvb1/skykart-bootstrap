@@ -1,0 +1,6 @@
+body {
+    background: #181BA8;
+    background: -webkit-linear-gradient(to right, #0062E6, #181BA8);
+    background: linear-gradient(to right, #0062E6, #181BA8);
+    min-height: 100vh;
+  }
